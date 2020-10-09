@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="first">
+    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="tabs commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/domain_names.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/domain_names.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602262145045</updated>
-      <workItem from="1602262146123" duration="4976000" />
+      <workItem from="1602262146123" duration="13357000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1602263207154</created>
@@ -61,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602263207154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tabs commit">
+      <created>1602267155802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602267155802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,13 +78,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="tabs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tabs commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1602267117481">
+    <state x="275" y="22" key="#Deployment" timestamp="1602274430527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602267117481" />
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602274430527" />
+    <state x="309" y="42" key="#Inspections" timestamp="1602268948036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1602268948036" />
     <state x="259" y="9" key="#SSH_Configurations" timestamp="1602267115870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -92,9 +106,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602262835501" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602263238493">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602267178138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602263238493" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602267178138" />
   </component>
 </project>
