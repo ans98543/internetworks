@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="" />
+    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,22 +52,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602262145045</updated>
-      <workItem from="1602262146123" duration="963000" />
+      <workItem from="1602262146123" duration="4976000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1602263207154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602263207154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1602262380074">
+    <state x="275" y="22" key="#Deployment" timestamp="1602267117481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602262380074" />
-    <state x="259" y="9" key="#SSH_Configurations" timestamp="1602262237492">
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602267117481" />
+    <state x="259" y="9" key="#SSH_Configurations" timestamp="1602267115870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1602262237492" />
+    <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1602267115870" />
     <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602262444167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -71,5 +92,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602262835501" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602263238493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602263238493" />
   </component>
 </project>
