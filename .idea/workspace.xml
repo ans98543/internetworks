@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="first topic commit">
+    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="second topic commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/domain_names.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/domain_names.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ipaddresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddresses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/http_https.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http_https.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/w3c_html_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c_html_css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602262145045</updated>
-      <workItem from="1602262146123" duration="16739000" />
+      <workItem from="1602262146123" duration="20556000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1602263207154</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602275544331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second topic commit">
+      <created>1602279074533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602279074533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +95,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="tabs commit" />
     <MESSAGE value="first topic commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first topic commit" />
+    <MESSAGE value="second topic commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second topic commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602275616348">
@@ -114,9 +123,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602262835501" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602275574187">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602279093379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602275574187" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602279093379" />
   </component>
 </project>
