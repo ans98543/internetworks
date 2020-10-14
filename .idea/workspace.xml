@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="second topic commit">
+    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="3rd set of topic commits">
+      <change afterPath="$PROJECT_DIR$/docs/http.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/url.domain.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/domain_names.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/domain_names.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/http_https.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http_https.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/w3c_html_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c_html_css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ipaddresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddresses.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ieJV4zTX5OOEuzFEdsPhlBONS7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -47,6 +70,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad\Webstorm\internetworks\docs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602262145045</updated>
-      <workItem from="1602262146123" duration="20556000" />
+      <workItem from="1602262146123" duration="20936000" />
+      <workItem from="1602689373615" duration="10688000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1602263207154</created>
@@ -85,24 +114,44 @@
       <option name="project" value="LOCAL" />
       <updated>1602279074533</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3rd set of topic commits">
+      <created>1602282790955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602282790955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="tabs commit" />
     <MESSAGE value="first topic commit" />
     <MESSAGE value="second topic commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second topic commit" />
+    <MESSAGE value="3rd set of topic commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd set of topic commits" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1602275616348">
+    <state x="275" y="22" key="#Deployment" timestamp="1602712174577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602275616348" />
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1602712174577" />
     <state x="309" y="42" key="#Inspections" timestamp="1602268948036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -111,10 +160,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1602267115870" />
-    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602262444167">
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602704342968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602262444167" />
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602704342968" />
     <state x="552" y="262" key="Github.ShareDialog" timestamp="1602262826967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,9 +172,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602262835501" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602279093379">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602282799714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602279093379" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602282799714" />
+    <state x="553" y="255" key="publish.login" timestamp="1602689680248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="255" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1602689680248" />
   </component>
 </project>
