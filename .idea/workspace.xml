@@ -19,14 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="3rd set of topic commits">
-      <change afterPath="$PROJECT_DIR$/docs/http.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/url.domain.jpg" afterDir="false" />
+    <list default="true" id="3bae7ad7-048d-4eab-b957-af6688842f78" name="Default Changelist" comment="layout and images commit">
+      <change afterPath="$PROJECT_DIR$/docs/css.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dns.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/https.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/packets.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/domain_names.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/domain_names.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/http.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/http_https.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http_https.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ipaddresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddresses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/w3c_html_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c_html_css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602262145045</updated>
       <workItem from="1602262146123" duration="20936000" />
-      <workItem from="1602689373615" duration="10688000" />
+      <workItem from="1602689373615" duration="14758000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1602263207154</created>
@@ -121,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602282790955</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="layout and images commit">
+      <created>1602715340204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602715340204</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +155,8 @@
     <MESSAGE value="first topic commit" />
     <MESSAGE value="second topic commit" />
     <MESSAGE value="3rd set of topic commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd set of topic commits" />
+    <MESSAGE value="layout and images commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout and images commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602712174577">
@@ -164,6 +175,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602704342968" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602733349683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602733349683" />
     <state x="552" y="262" key="Github.ShareDialog" timestamp="1602262826967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -172,10 +187,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602262835501" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602282799714">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602715355033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602282799714" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602715355033" />
     <state x="553" y="255" key="publish.login" timestamp="1602689680248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
